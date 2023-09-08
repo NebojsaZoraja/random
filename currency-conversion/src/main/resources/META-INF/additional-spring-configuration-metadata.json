@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "resilience4j.circuitbreaker.instances.circuitBreakerTest.wait-duration-in-open-state",
+  "type": "java.lang.String",
+  "description": "A description for 'resilience4j.circuitbreaker.instances.circuitBreakerTest.wait-duration-in-open-state'"
+}]}
